@@ -1,0 +1,9 @@
+{
+  "name": "assignment-problem-solving",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/part1.test.js && node tests/part2.test.js && node tests/part3.test.js",
+    "benchmark": "node src/part3/benchmark.js"
+  }
+}
